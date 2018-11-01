@@ -1,0 +1,12 @@
+Message: Undefined variable: a
+File: /home/test/testphp/myErrorHandler.php
+Line: 5
+Stack Trace: #0 /home/test/testphp/logging.php(27): myErrorHandler(8, 'Undefined varia...', '/home/test/test...', 27, Array)
+#1 {main}
+
+Message: Division by zero
+File: /home/test/testphp/myErrorHandler.php
+Line: 5
+Stack Trace: #0 /home/test/testphp/logging.php(25): myErrorHandler(2, 'Division by zer...', '/home/test/test...', 25, Array)
+#1 {main}
+
